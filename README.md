@@ -28,3 +28,25 @@ Conducted extensive research and development on <strong>Elasticsearch internals 
 <p align="justify">
 Build a reliable migration path from Elasticsearch 6 to Elasticsearch 8 by combining source-code analysis, complex query engineering, compatibility assessment, and systematic validation of search behavior.
 </p>
+
+### 🔎 Explore Elasticsearch 8.x Query Implementations
+
+<p align="justify">
+As part of the <strong>Elasticsearch 6.x to 8.x migration research and development</strong>, I analyzed Elasticsearch source code, investigated query compatibility, and developed complex Elasticsearch 8.x queries to demonstrate migration scenarios and advanced search operations.
+</p>
+
+<p>
+  📂 <strong>Source Code:</strong>
+  <a href="https://github.com/SandeepKumarRayala/ES8xAllQuerySamples/blob/master/src/main/java/com/elastic/demo/Controller/VehicleService.java">
+    View Elasticsearch 8.x Query Implementations — VehicleService.java
+  </a>
+</p>
+
+<p>
+  🚀 <strong>GitHub Repository:</strong>
+  <a href="https://github.com/SandeepKumarRayala/ES8xAllQuerySamples">
+    ES8xAllQuerySamples
+  </a>
+</p>
+
+<p><strong>Note:</strong> Refer to the <code>VehicleService.java</code> source file to explore the Elasticsearch query implementations developed during the migration research.</p>
